@@ -6,6 +6,6 @@ A script written with node and puppeteer to scrape cookies from sites(sentinel) 
 - `node script.js`
 - Once the script runs the cookie is stored in the cookies folder.
   
-  # challenges
+# Challenges
   - device not recognized;asks for recovery email
   - captcha
