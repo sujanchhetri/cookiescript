@@ -1,0 +1,9 @@
+{
+    {
+        "mail1": "mail1@gmail.com",
+        "password": "samepasswordforallmail",
+        "mail3": "mail2@gmail.com",
+        "mail2":"mail3@gmail.com"
+      }
+      
+}
